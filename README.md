@@ -50,7 +50,7 @@ A lightweight, modern autoclicker for Windows with a clean GUI. Click away witho
 
 ```bash
 # Clone the repo
-git clone https://github.com/YOUR-USERNAME/MC-Clicker.git
+git clone https://github.com/Dizzguise/MC-Clicker.git
 cd MC-Clicker
 
 # Install dependencies
@@ -164,6 +164,7 @@ Feel free to fork, modify, and use this project as you wish!
 ---
 
 **Made with ❤️ using Python**
+
 
 
 
