@@ -8,7 +8,7 @@ A lightweight, modern autoclicker for Windows with a clean GUI. Click away witho
 - ⚡ Low CPU/memory footprint
 - 🎯 Configurable click speed (CPS ↔ Seconds conversion)
 - 🖲️ Left/Right click options
-- ⌨️ Customizable hotkey (F6 default, auto-saved)
+- ⌨️ Customizable hotkey (F6 default)
 - 📦 Standalone executable (11.33 MB)
 - 🔒 No dependencies, no installation needed
 
@@ -26,12 +26,11 @@ A lightweight, modern autoclicker for Windows with a clean GUI. Click away witho
    - **Hotkey**: Click "Change", press your desired key
 4. Press your hotkey to toggle clicking on/off
 
-**That's it!** Settings are automatically saved.
+**That's it!**
 
 ### Tips:
 - Hotkey toggles clicking on/off
 - All settings apply instantly
-- Your hotkey is remembered next time you run it
 - Some systems require **administrator rights** for global hotkeys
 
 ---
@@ -164,6 +163,7 @@ Feel free to fork, modify, and use this project as you wish!
 ---
 
 **Made with ❤️ using Python**
+
 
 
 
