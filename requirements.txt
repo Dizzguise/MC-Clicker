@@ -1,0 +1,10 @@
+
+# MC Clicker - Minimal Dependencies for Lightweight Package
+# tkinter comes built-in with Python
+pynput==1.7.6
+keyboard==0.13.5
+
+# Development & Testing
+pytest==8.3.5
+pyinstaller==5.13.2
+pyinstaller-hooks-contrib==2023.10 
