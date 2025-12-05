@@ -43,95 +43,6 @@ A lightweight, modern autoclicker for Windows with a clean GUI. Click away witho
 
 ---
 
-## 🛠️ For Developers
-
-### Setup
-
-```bash
-# Clone the repo
-git clone https://github.com/Dizzguise/MC-Clicker.git
-cd MC-Clicker
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Run the app
-python -m src.main
-
-# Run tests
-pytest tests/ -v
-
-# Build executable
-python build/build.py
-```
-
-### Project Structure
-
-```
-MC-Clicker/
-├── src/
-│   ├── main.py           # GUI application
-│   ├── clicker.py        # Mouse clicking logic
-│   ├── hotkey.py         # Global hotkey manager
-│   └── utils.py          # Utility functions
-├── tests/
-│   ├── test_clicker.py   # Clicker tests
-│   ├── test_hotkey.py    # Hotkey tests
-│   └── test_utils.py     # Utility tests
-├── build/
-│   └── build.py          # PyInstaller build script
-├── dist/
-│   └── MCClicker.exe     # Standalone executable
-├── README.md             # This file
-├── PLANNING.md           # Architecture & design
-├── GETTING_STARTED.md    # Quick setup guide
-└── requirements.txt      # Python dependencies
-```
-
-### Testing
-
-```bash
-# Run all tests
-pytest tests/ -v
-
-# Run specific test file
-pytest tests/test_clicker.py -v
-
-# Current status: 51/51 tests passing
-```
-
----
-
-## 🎮 Usage Examples
-
-### Minecraft AFK Mining
-- Default 1.6 CPS is perfect
-- Set to Left Click (default)
-- Press F6 to start, F6 to stop
-
-### Fast Clicking Challenge  
-- Increase CPS to 15-20
-- Left Click
-- Use custom hotkey if desired
-
-### Right-Click Spam
-- Set CPS to 5-10
-- Choose Right Click
-- Perfect for building/testing
-
----
-
-## ⚙️ Hotkey Format
-
-Enter hotkeys in your preferred format:
-- Single key: `f6`, `space`, `enter`
-- With modifiers: `ctrl+f6`, `alt+f`, `shift+c`
-- Multiple modifiers: `alt+shift+f6`, `ctrl+shift+f8`
-
-**Supported keys**: F1-F12, A-Z, 0-9, Enter, Space, Tab, Esc, etc.
-
----
-
 ## 🐛 Troubleshooting
 
 ### Hotkey not working?
@@ -163,6 +74,7 @@ Feel free to fork, modify, and use this project as you wish!
 ---
 
 **Made with ❤️ using Python**
+
 
 
 
