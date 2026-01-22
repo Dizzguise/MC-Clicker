@@ -18,7 +18,7 @@ A lightweight, modern autoclicker for Windows with a clean GUI. Click away witho
 
 ### For Users (Running the App)
 
-1. Download `MCClicker.exe` from (dist)
+1. Download `MCClicker.exe`
 2. Run the .exe - **no installation needed!**
 3. Configure your settings:
    - **Click Speed**: Default 1.6 CPS (perfect for Minecraft)
@@ -74,6 +74,7 @@ Feel free to fork, modify, and use this project as you wish!
 ---
 
 **Made with ❤️ using Python**
+
 
 
 
